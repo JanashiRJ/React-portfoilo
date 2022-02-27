@@ -8,12 +8,21 @@ const Footer = () => {
       <div className="container">
         <div className="footer-container">
           <Fade bottom cascade>
-            <h1>Contact</h1>
-            <h2>{data.contactSubHeading}</h2>
+            <h1>Contact Details</h1>
           </Fade>
-          <a className="email-link" href={`mailto:${data.contactEmail}`}>
-            {data.contactEmail}
-          </a>
+          <Fade bottom>
+            <p>
+              <b>Janashi Resanjana,<br/>
+                 Kakunagodahena,<br/>
+                 Bathalahena,<br/>
+                 Hallala,Weligama,<br/>
+                 Mathara.
+              </b>
+            </p>
+            <p><b>Mobile:<br/>
+            +94767483665</b></p>
+            <p><b>janashirasa1021@gmail.com</b><br/></p>
+          </Fade>
           <div className="social-icons">
             {data.social.map((socialLink, index) => (
               <a
@@ -26,10 +35,6 @@ const Footer = () => {
               </a>
             ))}
           </div>
-          <span>
-            Made With <icon>❤</icon> by{" "}
-            <a href="https://www.chetanverma.com/">Chetan Verma</a>
-          </span>
         </div>
       </div>
     </div>

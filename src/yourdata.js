@@ -42,34 +42,40 @@ export default {
         "https://149501111.v2.pressablecdn.com/wp-content/uploads/2020/12/Library-Management-System.jpg",
       //Project URL - Add Your Project Url Here
       url:
-        "https://github.com/JanashiRJ/React-portfoilo",
+        "https://drive.google.com/drive/folders/1u01cCjxlvmPLxXMnEczFvolLxvhxEsAm?usp=sharing",
     },
     {
       title: "Project Two", //Project Title - Add Your Project Title Here
-      para:
-        "I have successfully completed Health Information System Using Python language.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://cdn.dribbble.com/users/298587/screenshots/6356425/dribbble.jpg",
-      //Project URL - Add Your Project Url Here
-    },
-    {
-      title: "Project Three", //Project Title - Add Your Project Title Here
-      para:
-        "I have successfully completed Gift Items Ordering and Delivery Application Using Javascript language.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://www.sketchappsources.com/resources/source-image/karamtaj-giftshop-app.png",
-      //Project URL - Add Your Project Url Here
-    },
-    {
-      title: "Project Four", //Project Title - Add Your Project Title Here
       para:
         "I have successfully completed Restaurant Management System Using HTML, CSS and JavaScript language.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://athemes.com/wp-content/uploads/Spoon-Restaurant-WordPress-Theme.jpg",
       //Project URL - Add Your Project Url Here
+      url:
+      "https://github.com/JanashiRJ/Web-Development.git",
+    },
+    {
+      title: "Project Three", //Project Title - Add Your Project Title Here
+      para:
+        "I have successfully completed Health Information System Using Python language.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://cdn.dribbble.com/users/298587/screenshots/6356425/dribbble.jpg",
+      //Project URL - Add Your Project Url Here
+      url:
+      "https://github.com/JanashiRJ/React-portfoilo",
+    },
+    {
+      title: "Project Four", //Project Title - Add Your Project Title Here
+      para:
+        "I have successfully completed Gift Items Ordering and Delivery Application Using Javascript language.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://www.sketchappsources.com/resources/source-image/karamtaj-giftshop-app.png",
+      //Project URL - Add Your Project Url Here
+      url:
+      "https://github.com/JanashiRJ/JanashiRJ.github.io.git",
     },
     {
       title: "Project Five", //Project Title - Add Your Project Title Here
@@ -90,6 +96,8 @@ export default {
       imageSrc:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg-Ie622clx8Xoy_KtMilo5cKybhk5EuJOGvf5322e9h8ifxJ0SJm-VmmOnEzwSoUnLhg&usqp=CAU",
       //Project URL - Add Your Project Url Here
+      url:
+      "https://github.com/JanashiRJ/React-portfoilo",
     },
 
 
